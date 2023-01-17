@@ -9,7 +9,7 @@ tags:
   - New York City
   - Transit
   - Cars
- header-includes:
+header-includes:
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Who owns a car in New York City?">
     <meta name="twitter:image:src" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
