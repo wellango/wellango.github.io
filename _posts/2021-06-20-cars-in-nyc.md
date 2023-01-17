@@ -18,7 +18,7 @@ tags:
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Who owns a car in New York City?">
-<meta name="twitter:image" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
+<meta name="twitter:image:src" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
 
 
 With vehicle traffic on New York roads [back to pre-pandemic levels](https://www.nytimes.com/2021/05/29/nyregion/city-traffic-pre-covid.html) and upon seeing unsubstantiated [claims](https://twitter.com/ShanaS_Warren/status/1394095700959453187) swirling about who uses cars, I decided to find data about car ownership in New York City.
