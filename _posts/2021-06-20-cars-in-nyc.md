@@ -20,7 +20,7 @@ tags:
 <meta name="twitter:image:src" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
 <meta property="og:image" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
 
-With vehicle traffic on New York roads [back to pre-pandemic levels](https://www.nytimes.com/2021/05/29/nyregion/city-traffic-pre-covid.html) and upon seeing unsubstantiated [claims](https://twitter.com/ShanaS_Warren/status/1394095700959453187) swirling about who uses cars, I decided to find data about car ownership in New York City.
+With vehicle traffic on New York roads [back to pre-pandemic levels](https://www.nytimes.com/2021/05/29/nyregion/city-traffic-pre-covid.html) and upon seeing unsubstantiated [claims](https://twitter.com/ShanaS_Warren/status/1394095700959453187) swirling about who uses cars, I decided to find data about car ownership[^1] in New York City.
 
 The most granular and latest available data is from [American Community Survey (ACS) 2014-2019](https://api.census.gov/data/2019/acs/acs5/profile.html). The highest granularity of data released by the Census Bureau is by [Census tracts](https://www.census.gov/programs-surveys/geography/about/glossary.html#par_textimage_13), which are small, typically unchanging geographical regions that contain between 1200 and 8000 people. While individual-level data would have been preferable, data from Census tracts are still [indicative](https://opportunityinsights.org/neighborhoods/) of individual-level outcomes.
 
@@ -89,3 +89,5 @@ What does all of this imply?
 Most New Yorkers do not own a car, much less drive to work. It might be tempting to think of the outer boroughs as all transit deserts, and ergo all its residents as owning and commuting by cars, but the reality is far from it. 
 
 Policies such as building *full-time* dedicated bus lanes, *protected* bike lanes, implementing congestion pricing to increase transit frequency would help the vast majority of New York City residents and most certainly the least affluent. The New Yorkers living in Melrose, Borough Park, East Harlem, Flushing, and Stapleton are testament to this.
+
+[^1]: Test reference.
