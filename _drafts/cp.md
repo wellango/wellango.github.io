@@ -23,6 +23,9 @@ Does congestion pricing adversely affect New Jersey residents?
 
 The economist Paul Krugman did an [analysis](https://www.nytimes.com/2023/07/24/opinion/new-york-congestion-charge.html) of congestion pricing and concluded New Jersey’s lawsuit is “an act of vehicular NIMBYism.” Governor Murphy of New Jersey [responsed](https://www.nytimes.com/2023/08/03/opinion/letters/congestion-pricing-new-york-new-jersey.html) to Krugman stating that congestion pricing would “increase congestion near the George Washington Bridge.”
 
+The US Department of Transportation's [Environmental Assessment](https://new.mta.info/document/111101) (EA) on congestion pricing forecasts a marginal increase of less than 0.2% in vehicle miles traveled within New Jersey resulting from its implementation.
+
+The extensive 958-page EA projects a daily vehicle increase of 5,000 to 12,500 in Bergen County near the George Washington Bridge, roughly a 5% uptick from 2019. Encouragingly, the EA concludes that this would not adversely impact air quality or traffic conditions.
 
 
 How many New Jerseyans work in New York City?
@@ -51,10 +54,15 @@ That is, less than 20% of the 300,000 New Jersey commuters to the CBD commute by
 
 How has this changed since the pandemic?
 ======
+In the fall of 2021[^5], 64% of the people entering the CBD from the New Jersey side used public transportation. At that time, NJTransit trains and PATH ridership was only about 45% of the pre-pandemic ridership.
+
+What about now in 2023? NJTransit and PATH ridership have rebounded to 55-60% of the pre-pandemic levels in Q1, meanwhile the car and truck traffic in Lincoln and Holland tunnels has _increased_ 8.5% above pre-pandemic levels.
+
+Using these figures, I estimate that roughly 70% of people commuting to the CBD from the New Jersey side in the first quarter of 2023 used public transportation. This would imply that the congestion fee would apply to approximately 65,000 New Jersey commuters in 2023.
+
+For comparison, on an average weekday in May 2023, the PATH [carried](https://www.panynj.gov/content/dam/path/about/statistics/2023-PATH-Monthly-Ridership-Report.pdf) 78,000 people into Manhattan. Despite their significant shortcomings, public transportation is still how the majority of New Jersey residents get to Manhattan.
 
 ![Car ownership vs car commute](/images/cars_in_nyc/car-regression.png)
-
-All these analyses are from data collected between 2014-2019, and therefore do not capture the effect of the COVID-19 pandemic, which did affect life in more than a few ways.
 
 Is congestion pricing taking money from New Jersey to pay New York?
 ======
@@ -71,4 +79,10 @@ What does all of this imply?
 [^3]: The PATH and NJTransit to Penn Station and Port Authority Bus Terminal are all designed towards transporting people to the CBD.
 
 [^4]: This includes anyone entering the CBD from New Jersey, not just New Jersey residents.
+
+[^5]: Fall 2021 is the latest available data from NYMTC.
+
+[^6]: Capital funding is money for structural improvements, new train cars; not for day-to-day operation costs of running the transit system.
+
+[^7]:  NYC Transit, the agency that runs the subway and the buses in New York City, gets the remaining 80%.
 
