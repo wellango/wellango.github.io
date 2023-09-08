@@ -67,11 +67,14 @@ For comparison, on an average weekday in May 2023, the PATH [carried](https://ww
 
 Is congestion pricing taking money from New Jersey to pay New York?
 ======
+If I were to ask about the transit agency that faced budget cuts from the state during the 2010s and saw its century-old tunnels severely damaged by Hurricane Sandy, would you think of NJTransit or the MTA? Unfortunately, it's both of them. The MTA secured long term capital funding[^6] through the [congestion pricing legislation](https://www.nytimes.com/2019/03/31/nyregion/budget-new-york-congestion-pricing.html) in 2019, and additional post-pandemic, guaranteed operating funding for the next [four years](https://www.masstransitmag.com/management/article/53066523/balanced-budget-through-2027-pulls-mta-back-from-fiscal-cliff) through increase of fares, tolls, and payroll tax. In contrast, NJTransit lacks a dedicated source of funding, leaving its budget vulnerable to the decisions of the state legislature and governor.
 
+Considering that NJTransit and other private buses pay a toll and they don’t get a share of the congestion pricing revenue to improve service, perhaps that's the most charitable reason for New Jersey’s opposition to congestion pricing. While vehicles from New Jersey are subjected to congestion pricing, the state doesn’t benefit from a share of the revenue to support its transit systems. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
+The lawsuit is likely a move by New Jersey to secure a portion of the congestion pricing revenue. Governor Murphy hints at this in concluding his response to Krugman:
+> If New York officials had meaningfully engaged us as partners in developing this plan, which has significant impacts outside of New York, we would be in a completely different position today. Without a seat at the table, we were left with no choice but to file a lawsuit.
 
-What does all of this imply?
-======
+So, to conclude: about 65,000 New Jerseyans would pay the congestion fee for their commute; 70% of commuters from New Jersey use public transportation to get to Manhattan’s Central Business District; but public transit in New Jersey wouldn’t improve unless the state dedicates funding or gets revenue from congestion pricing.
 
 [^1]: The last year before the pandemic for which commuting data is available.
 
