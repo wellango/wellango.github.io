@@ -71,6 +71,8 @@ If I were to ask about the transit agency that faced budget cuts from the state 
 
 Considering that NJTransit and other private buses pay a toll and they don’t get a share of the congestion pricing revenue to improve service, perhaps that's the most charitable reason for New Jersey’s opposition to congestion pricing. While vehicles from New Jersey are subjected to congestion pricing, the state doesn’t benefit from a share of the revenue to support its transit systems. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
+
+
 The lawsuit is likely a move by New Jersey to secure a portion of the congestion pricing revenue. Governor Murphy hints at this in concluding his response to Krugman:
 > If New York officials had meaningfully engaged us as partners in developing this plan, which has significant impacts outside of New York, we would be in a completely different position today. Without a seat at the table, we were left with no choice but to file a lawsuit.
 
