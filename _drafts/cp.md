@@ -72,7 +72,7 @@ The case for regional transportation
 ======
 <iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="675" data-external="1"></iframe>
 
-While vehicles from New Jersey are subjected to congestion pricing, the state doesn’t benefit from a share of the revenue to support its transit systems. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
+While vehicles from New Jersey are subjected to congestion pricing, the state's transit systems doesn’t benefit from a share of the revenue. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
 [^1]: The last year before the pandemic for which commuting data is available.
 
