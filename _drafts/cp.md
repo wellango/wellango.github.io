@@ -57,8 +57,6 @@ Using these figures, I estimate that roughly 70% of people commuting to the CBD 
 
 For comparison, on an average weekday in May 2023, the PATH [carried](https://www.panynj.gov/content/dam/path/about/statistics/2023-PATH-Monthly-Ridership-Report.pdf) 78,000 people into Manhattan. Despite their significant shortcomings, public transportation is still how the majority of New Jersey residents get to Manhattan.
 
-![Car ownership vs car commute](/images/cars_in_nyc/car-regression.png)
-
 Is congestion pricing taking money from New Jersey to pay New York?
 ======
 If I were to ask about the transit agency that faced budget cuts from the state during the 2010s and saw its century-old tunnels severely damaged by Hurricane Sandy, would you think of NJTransit or the MTA? Unfortunately, it's both of them. The MTA secured long term capital funding[^6] through the [congestion pricing legislation](https://www.nytimes.com/2019/03/31/nyregion/budget-new-york-congestion-pricing.html) in 2019, and additional post-pandemic, guaranteed operating funding for the next [four years](https://www.masstransitmag.com/management/article/53066523/balanced-budget-through-2027-pulls-mta-back-from-fiscal-cliff) through increase of fares, tolls, and payroll tax. In contrast, NJTransit lacks a dedicated source of funding, leaving its budget vulnerable to the decisions of the state legislature and governor.
