@@ -25,8 +25,9 @@ The economist Paul Krugman did an [analysis](https://www.nytimes.com/2023/07/24/
 
 The US Department of Transportation's [Environmental Assessment](https://new.mta.info/document/111101) (EA) on congestion pricing forecasts a marginal increase of less than 0.2% in vehicle miles traveled within New Jersey resulting from its implementation.
 
-The extensive 958-page EA projects a daily vehicle increase of 5,000 to 12,500 in Bergen County near the George Washington Bridge, roughly a 5% uptick from 2019. Encouragingly, the EA concludes that this would not adversely impact air quality or traffic conditions.
+The extensive 958-page EA projects a daily vehicle increase of 5,000 to 12,500 in Bergen County near the George Washington Bridge, roughly a 5% uptick from 2019. The EA concludes that this would not adversely impact air quality or traffic conditions.
 
+For comparison, the car and truck traffic in Lincoln and Holland tunnels has _increased_ by 8.5% from 2019.
 
 How many New Jerseyans work in New York City?
 =======
@@ -56,7 +57,7 @@ How has this changed since the pandemic?
 ======
 In the fall of 2021[^5], 64% of the people entering the CBD from the New Jersey side used public transportation. At that time, NJTransit trains and PATH ridership was only about 45% of the pre-pandemic ridership.
 
-What about now in 2023? NJTransit and PATH ridership have rebounded to 55-60% of the pre-pandemic levels in Q1, meanwhile the car and truck traffic in Lincoln and Holland tunnels has _increased_ 8.5% above pre-pandemic levels.
+What about now in 2023? NJTransit and PATH ridership have rebounded to 55-60% of the pre-pandemic levels in Q1, meanwhile the car and truck traffic in Lincoln and Holland tunnels is 8.5% above pre-pandemic levels.
 
 Using these figures, I estimate that roughly 70% of people commuting to the CBD from the New Jersey side in the first quarter of 2023 used public transportation. This would imply that the congestion fee would apply to approximately 65,000 New Jersey commuters in 2023.
 
