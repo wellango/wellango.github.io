@@ -21,7 +21,7 @@ New Jersey immediately [sued](https://newjerseymonitor.com/2023/07/21/new-jersey
 Does congestion pricing adversely affect New Jersey residents?
 =======
 
-The economist Paul Krugman did an [analysis](https://www.nytimes.com/2023/07/24/opinion/new-york-congestion-charge.html) of congestion pricing and concluded New Jersey’s lawsuit is “an act of vehicular NIMBYism.” Governor Murphy of New Jersey [responsed](https://www.nytimes.com/2023/08/03/opinion/letters/congestion-pricing-new-york-new-jersey.html) to Krugman stating that congestion pricing would “increase congestion near the George Washington Bridge.”
+The economist Paul Krugman did an [analysis](https://www.nytimes.com/2023/07/24/opinion/new-york-congestion-charge.html) of congestion pricing and concluded New Jersey’s lawsuit is “an act of vehicular NIMBYism.” Governor Murphy of New Jersey [responded](https://www.nytimes.com/2023/08/03/opinion/letters/congestion-pricing-new-york-new-jersey.html) to Krugman stating that congestion pricing would “increase congestion near the George Washington Bridge.”
 
 The US Department of Transportation's [Environmental Assessment](https://new.mta.info/document/111101) (EA) on congestion pricing forecasts a marginal increase of less than 0.2% in vehicle miles traveled within New Jersey resulting from its implementation.
 
@@ -70,7 +70,7 @@ In 2019, less than 20% of the people working in the CBD resided outside of New Y
 
 While vehicles from New Jersey are subjected to congestion pricing, the state's transit systems doesn’t benefit from a share of the revenue. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
-In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee during their daily commute; while the other 70% of New Jersey commuters use public transportation to get to Manhattan’s Central Business District. However, public transit improvement in New Jersey depends on the state allocating guaranteed funding or obtaining a share of congestion pricing revenue for its transit systems.
+In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee during their daily commute; while the other 70% of New Jersey commuters use public transportation to get to Manhattan’s Central Business District. At the same time, public transit improvement in New Jersey depends on the state allocating guaranteed funding or obtaining a share of congestion pricing revenue for its transit systems.
 
 [^1]: The last year before the pandemic for which commuting data is available.
 
