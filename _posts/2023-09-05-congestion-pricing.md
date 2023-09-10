@@ -76,7 +76,7 @@ In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee
 
 [^2]: I couldn’t figure out how to get data for those who work specifically in the CBD.
 
-[^0]: Salem County, which is right across the Delaware river from Wilmington, had only 4 people working in Manhattan.
+[^0]: Salem County, which is right across the Delaware river from Wilmington, had only 4 people working in Manhattan in 2016.
 
 [^3]: The PATH and NJTransit to Penn Station and Port Authority Bus Terminal are all designed towards transporting people to the CBD.
 
