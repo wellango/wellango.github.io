@@ -1,6 +1,6 @@
 ---
 title: 'New Jersey v. Congestion Pricing'
-date: 2023-09-04
+date: 2023-09-10
 permalink: /posts/2023/09/nj-congestion-pricing/
 author_profile: false
 tags:
