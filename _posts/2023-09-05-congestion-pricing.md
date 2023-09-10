@@ -5,6 +5,7 @@ permalink: /posts/2023/09/nj-v-congestion-pricing/
 author_profile: false
 redirect_from:
   - /posts/2023/09/nj-congestion-pricing
+  - /posts/2023/09/nj-congestion-pricing/
 tags:
   - Transit
   - New Jersey
