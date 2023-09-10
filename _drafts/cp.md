@@ -16,7 +16,7 @@ tags:
 
 Congestion pricing for vehicles entering Manhattan’s Central Business District (CBD) – Manhattan below 60th Street  –  was given the final [federal approval](https://gothamist.com/news/nyc-congestion-pricing-gets-key-federal-approval-possibly-in-place-by-april-2024) in June after the legislation was passed by the New York state legislature nearly 4 years ago. 
 
-[New Jersey immediately sued](https://newjerseymonitor.com/2023/07/21/new-jersey-sues-to-block-new-york-citys-congestion-pricing-plan/) to block it with some New Jersey lawmakers [claiming](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) that congestion pricing is an “unfair hit on New Jersey.” I have previously [explored](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) how congestion pricing is not a regressive tax on New York City residents, so I was skeptical of this claim. In this blog post I will examine how New Jersey residents are impacted by congestion pricing. 
+New Jersey immediately [sued](https://newjerseymonitor.com/2023/07/21/new-jersey-sues-to-block-new-york-citys-congestion-pricing-plan/) to block it with some New Jersey lawmakers [claiming](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) that congestion pricing is an “unfair hit on New Jersey.” I have previously [explored](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) how congestion pricing is not a regressive tax on New York City residents, so I was skeptical of this claim. In this blog post I will examine how New Jersey residents are impacted by congestion pricing. 
 
 Does congestion pricing adversely affect New Jersey residents?
 =======
