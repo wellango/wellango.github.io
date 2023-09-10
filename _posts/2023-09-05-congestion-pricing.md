@@ -4,7 +4,7 @@ date: 2023-09-10
 permalink: /posts/2023/09/nj-congestion-pricing/
 author_profile: false
 tags:
-  - New York City
+  - Transit
   - New Jersey
   - Congestion Pricing
 ---
