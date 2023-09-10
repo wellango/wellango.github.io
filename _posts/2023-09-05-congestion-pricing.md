@@ -1,8 +1,10 @@
 ---
 title: 'New Jersey v. Congestion Pricing'
 date: 2023-09-10
-permalink: /posts/2023/09/nj-congestion-pricing/
+permalink: /posts/2023/09/nj-v-congestion-pricing/
 author_profile: false
+redirect_from:
+  - /posts/2023/09/nj-congestion-pricing
 tags:
   - Transit
   - New Jersey
