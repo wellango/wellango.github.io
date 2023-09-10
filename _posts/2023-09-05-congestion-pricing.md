@@ -70,7 +70,7 @@ In 2019, less than 20% of the people working in the CBD resided outside of New Y
 
 While vehicles from New Jersey are subjected to congestion pricing, the state's transit systems doesn’t benefit from a share of the revenue. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
-In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee during their daily commute; while the other 70% of New Jersey commuters use public transportation to get to Manhattan’s Central Business District. However, public transit improvement in New Jersey depends on the state allocating guaranteed funding or receiving a share of congestion pricing revenue.
+In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee during their daily commute; while the other 70% of New Jersey commuters use public transportation to get to Manhattan’s Central Business District. However, public transit improvement in New Jersey depends on the state allocating guaranteed funding or obtaining a share of congestion pricing revenue for its transit systems.
 
 [^1]: The last year before the pandemic for which commuting data is available.
 
