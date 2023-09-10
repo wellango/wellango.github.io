@@ -66,8 +66,7 @@ The lawsuit is likely a move by New Jersey to secure a portion of the congestion
 
 In 2019, less than 20% of the people working in the CBD resided outside of New York state, with approximately 14% living in New Jersey. Hudson and Bergen counties in northern New Jersey had CBD bound commuter populations comparable to those of Nassau and Suffolk counties in New York.
 
-
-<iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="675" data-external="1"></iframe>
+<iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="692" data-external="1"></iframe>
 
 While vehicles from New Jersey are subjected to congestion pricing, the state's transit systems doesn’t benefit from a share of the revenue. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
 
