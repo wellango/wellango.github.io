@@ -1,6 +1,6 @@
 ---
 title: 'New Jersey v. Congestion Pricing'
-date: 2023-09-04
+date: 2023-09-10
 permalink: /posts/2023/09/nj-congestion-pricing/
 author_profile: false
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Congestion pricing for vehicles entering Manhattan’s Central Business District (CBD) – Manhattan below 60th Street  –  was given the final [federal approval](https://gothamist.com/news/nyc-congestion-pricing-gets-key-federal-approval-possibly-in-place-by-april-2024) in June after the legislation was passed by the New York state legislature nearly 4 years ago. 
 
-[New Jersey immediately sued](https://newjerseymonitor.com/2023/07/21/new-jersey-sues-to-block-new-york-citys-congestion-pricing-plan/) to block it with some New Jersey lawmakers [claiming](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) that congestion pricing is an “unfair hit on New Jersey.” I have previously [explored](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) how congestion pricing is not a regressive tax on New York City residents, so I was skeptical of this claim. In this blog post I will examine how New Jersey residents are impacted by congestion pricing. 
+New Jersey immediately [sued](https://newjerseymonitor.com/2023/07/21/new-jersey-sues-to-block-new-york-citys-congestion-pricing-plan/) to block it with some New Jersey lawmakers [claiming](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) that congestion pricing is an “unfair hit on New Jersey.” I have previously [explored](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) how congestion pricing is not a regressive tax on New York City residents, so I was skeptical of this claim. In this blog post I will examine how New Jersey residents are impacted by congestion pricing. 
 
 Does congestion pricing adversely affect New Jersey residents?
 =======
@@ -41,13 +41,7 @@ Census Transportation Planning Products Program has [data](http://data5.ctpp.tra
 
 In 2016, 79% of New Jersey residents who commuted to Manhattan for work used public transportation, which was higher than the 75% reported in 2013. This increase is also corroborated from an [NYC Planning report](https://www.nyc.gov/assets/planning/download/pdf/planning-level/housing-economy/nyc-ins-and-out-of-commuting.pdf) showing that with the number of jobs increasing in Manhattan, a larger share of New Jersey residents are commuting by public transit to work. Looking at the share of public transit commute to Manhattan by county, we see every single New Jersey county has the majority of its Manhattan bound workers use public transit for commuting.
 
-
-<p float="left">
-  <img src="/images/cars_in_nyc/car-ownership.png" width="49%" />
-  <img src="/images/cars_in_nyc/transit-commute.png" width="49%" /> 
-</p>
-
-<iframe src="https://car-ownership-nyc.onrender.com/nyc_mapping" title="Car ownership in NYC" width="950" height="775" style="border: none;"></iframe>
+<iframe title="Share of public transit commuters to Manhattan" aria-label="Map" id="datawrapper-chart-xgsyy" src="https://datawrapper.dwcdn.net/xgsyy/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="785" data-external="1"></iframe>
 
 Since it's easier to get to the CBD than other parts of Manhattan from New Jersey[^3], I estimate that the fraction of New Jersey residents who used public transit to commute to the CBD would have been higher than 79% in 2019. Data from [NYMTC](https://www.nymtc.org/en-us/Data-and-Modeling/Transportation-Data-and-Statistics/Publications/Hub-Bound-Travel) shows 82% of people entered the CBD from the New Jersey side[^4] using public transportation in 2019. So, this adds further strength to my estimate.
 
@@ -63,22 +57,20 @@ Using these figures, I estimate that roughly 70% of people commuting to the CBD 
 
 For comparison, on an average weekday in May 2023, the PATH [carried](https://www.panynj.gov/content/dam/path/about/statistics/2023-PATH-Monthly-Ridership-Report.pdf) 78,000 people into Manhattan. Despite their significant shortcomings, public transportation is still how the majority of New Jersey residents get to Manhattan.
 
-![Car ownership vs car commute](/images/cars_in_nyc/car-regression.png)
-
 Is congestion pricing taking money from New Jersey to pay New York?
 ======
 If I were to ask about the transit agency that faced budget cuts from the state during the 2010s and saw its century-old tunnels severely damaged by Hurricane Sandy, would you think of NJTransit or the MTA? Unfortunately, it's both of them. The MTA secured long term capital funding[^6] through the [congestion pricing legislation](https://www.nytimes.com/2019/03/31/nyregion/budget-new-york-congestion-pricing.html) in 2019, and additional post-pandemic, guaranteed operating funding for the next [four years](https://www.masstransitmag.com/management/article/53066523/balanced-budget-through-2027-pulls-mta-back-from-fiscal-cliff) through increase of fares, tolls, and payroll tax. In contrast, NJTransit lacks a dedicated source of funding, leaving its budget vulnerable to the decisions of the state legislature and governor.
 
-New Jersey's lawsuit is likely a move to secure a portion of the congestion pricing revenue. Governor Murphy hints at this in concluding his response to Krugman:
+The lawsuit is likely a move by New Jersey to secure a portion of the congestion pricing revenue. Governor Murphy hints at this in concluding his response to Krugman:
 > If New York officials had meaningfully engaged us as partners in developing this plan, which has significant impacts outside of New York, we would be in a completely different position today. Without a seat at the table, we were left with no choice but to file a lawsuit.
 
-So, to conclude: about 65,000 New Jerseyans would pay the congestion fee for their commute; 70% of commuters from New Jersey use public transportation to get to Manhattan’s Central Business District; but public transit in New Jersey wouldn’t improve unless the state dedicates funding or gets revenue from congestion pricing.
+In 2019, less than 20% of the people working in the CBD resided outside of New York state, with approximately 14% living in New Jersey. Hudson and Bergen counties in northern New Jersey had CBD bound commuter populations comparable to those of Nassau and Suffolk counties in New York.
 
-The case for regional transportation
-======
-<iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="675" data-external="1"></iframe>
+<iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="692" data-external="1"></iframe>
 
-While vehicles from New Jersey are subjected to congestion pricing, the state doesn’t benefit from a share of the revenue to support its transit systems. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
+While vehicles from New Jersey are subjected to congestion pricing, the state's transit systems doesn’t benefit from a share of the revenue. And New Jersey does have a case to make for it, after all Metro North and Long Island Rail Roads each receive 10% share of the revenue[^7].
+
+In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee during their daily commute; while the other 70% of New Jersey commuters use public transportation to get to Manhattan’s Central Business District. However, public transit improvement in New Jersey depends on the state allocating guaranteed funding or receiving a share of congestion pricing revenue.
 
 [^1]: The last year before the pandemic for which commuting data is available.
 
@@ -93,5 +85,4 @@ While vehicles from New Jersey are subjected to congestion pricing, the state do
 [^6]: Capital funding is money for structural improvements, new train cars; not for day-to-day operation costs of running the transit system.
 
 [^7]:  NYC Transit, the agency that runs the subway and the buses in New York City, gets the remaining 80%.
-
 
