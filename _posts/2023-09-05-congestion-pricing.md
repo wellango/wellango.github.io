@@ -39,7 +39,7 @@ How do they commute?
 
 Census Transportation Planning Products Program has [data](http://data5.ctpp.transportation.org/ctpp1216/) on commuting flows categorized by how people commute, with the most recent data spanning from 2012 to 2016. With this I can get the mode of transportation of New Jerseyans who work in Manhattan[^2].
 
-In 2016, 79% of New Jersey residents who commuted to Manhattan for work used public transportation, which was higher than the 75% reported in 2013. This increase is also corroborated from an [NYC Planning report](https://www.nyc.gov/assets/planning/download/pdf/planning-level/housing-economy/nyc-ins-and-out-of-commuting.pdf) showing that with the number of jobs increasing in Manhattan, a larger share of New Jersey residents are commuting by public transit to work. Looking at the share of public transit commute to Manhattan by county, we see every single New Jersey county has the majority of its Manhattan bound workers use public transit for commuting.
+In 2016, 79% of New Jersey residents who commuted to Manhattan for work used public transportation, which was higher than the 75% reported in 2013. This increase is also corroborated from an [NYC Planning report](https://www.nyc.gov/assets/planning/download/pdf/planning-level/housing-economy/nyc-ins-and-out-of-commuting.pdf) showing that with the number of jobs increasing in Manhattan, a larger share of New Jersey residents are commuting by public transit to work. Looking at the share of public transit commute to Manhattan by county, we see every single county, except for Salem[^0], has the majority of its Manhattan bound workers use public transit for commuting.
 
 <iframe title="New Jersey residents commuting by public transit to Manhattan" aria-label="Map" id="datawrapper-chart-xgsyy" src="https://datawrapper.dwcdn.net/xgsyy/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="828" data-external="1"></iframe>
 
@@ -75,6 +75,8 @@ In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee
 [^1]: The last year before the pandemic for which commuting data is available.
 
 [^2]: I couldn’t figure out how to get data for those who work specifically in the CBD.
+
+[^0]: Salem County, which is right across the Delaware river from Wilmington, had only 4 people working in Manhattan.
 
 [^3]: The PATH and NJTransit to Penn Station and Port Authority Bus Terminal are all designed towards transporting people to the CBD.
 
