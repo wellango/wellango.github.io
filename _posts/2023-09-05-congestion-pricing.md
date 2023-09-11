@@ -15,8 +15,8 @@ tags:
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="New Jersey v. Congestion Pricing">
-<meta name="twitter:image:src" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
-<meta property="og:image" content="https://wellango.github.io/images/cars_in_nyc/nyc-car-ownership-map.png">
+<meta name="twitter:image:src" content="https://wellango.github.io/images/congestion_pricing/new-jersey-commute.png">
+<meta property="og:image" content="https://wellango.github.io/images/congestion_pricing/new-jersey-commute.png">
 
 Congestion pricing aims to accurately reflect the true cost[^8] of driving within some of the most densely populated and transit-accessible areas. Cities like London, Stockholm, and Singapore, which have successfully implemented it, have observed a 25% reduction in traffic congestion and an improvement in traffic speed. 
 
