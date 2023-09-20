@@ -12,12 +12,12 @@ tags:
   - New Jersey
   - Congestion Pricing
 ---
-
+<!---
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="New Jersey v. Congestion Pricing">
 <meta name="twitter:image:src" content="https://wellango.github.io/images/congestion_pricing/new-jersey-commute.png">
 <meta property="og:image" content="https://wellango.github.io/images/congestion_pricing/new-jersey-commute.png">
-
+--->
 Congestion pricing aims to accurately reflect the true cost[^8] of driving within some of the most densely populated and transit-accessible areas. Cities like London, Stockholm, and Singapore, which have successfully implemented it, have observed a 25% reduction in traffic congestion and an improvement in traffic speed. 
 
 Congestion pricing for vehicles entering Manhattan’s Central Business District (CBD) – Manhattan below 60th Street  –  was passed by the New York state legislature nearly 4 years ago. After it was given final [federal approval](https://gothamist.com/news/nyc-congestion-pricing-gets-key-federal-approval-possibly-in-place-by-april-2024) in June, New Jersey immediately [sued](https://newjerseymonitor.com/2023/07/21/new-jersey-sues-to-block-new-york-citys-congestion-pricing-plan/) to block it with some New Jersey lawmakers [claiming](https://patch.com/new-jersey/westorange/nj-lawmakers-say-nyc-congestion-pricing-unfair-hit) that congestion pricing is an “unfair hit on New Jersey.” I have previously [explored](https://wellango.github.io/posts/2021/06/who-owns-cars-in-nyc/) how congestion pricing is not a regressive tax on New York City residents, so I was skeptical of this claim. In this blog post I will examine how New Jersey residents are impacted by congestion pricing.
