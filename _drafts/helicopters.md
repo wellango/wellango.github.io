@@ -28,6 +28,9 @@ What caused the increase in noise complaints?
 
 <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_traces_flynyon_2021_10_01.html" title="Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
 
+
+
+
 <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_traces_flynyon_2022_4_01.html" title="FlyNYON Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
 
 
