@@ -26,7 +26,10 @@ What caused the increase in noise complaints?
 =======
 
 
-<iframe title="Share of public transit commuters to Manhattan" aria-label="Map" id="datawrapper-chart-xgsyy" src="https://datawrapper.dwcdn.net/xgsyy/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="785" data-external="1"></iframe>
+<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_traces_flynyon_2021_10_01.html" title="Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
+
+<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_traces_flynyon_2022_4_01.html" title="FlyNYON Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
+
 
 <iframe title="Where do commuters to Manhattan's Central Business District live?" aria-label="Map" id="datawrapper-chart-J60bH" src="https://datawrapper.dwcdn.net/J60bH/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="692" data-external="1"></iframe>
 
