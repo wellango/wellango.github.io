@@ -35,12 +35,12 @@ Route change in Jersey City and Hoboken
 
 Sometime in April 2022 FlyNYON helicopters from Linden mostly stopped flying over Newport, in Jersey City, and instead now fly over The Heights. 
 
-<div style="width:1005px;">
+<div style="width:985px;">
   <div style="float:left;">
-    <iframe width="500px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    <iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="float:right;">
-<iframe width="500px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="clear:both;"></div>
 </div>
