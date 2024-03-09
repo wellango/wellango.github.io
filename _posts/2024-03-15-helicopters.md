@@ -11,20 +11,6 @@ tags:
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Helicopters in NYC">
 
-<head>
-  <style>
-    .iframe-container {
-      display: flex;
-    }
-
-    .iframe-container iframe {
-      width: 50%;
-      margin: 5px;
-    }
-  </style>
-</head>
-
-
 During the pandemic I started noticing an increasing number of helicopters hovering over New York City. Many other New Yorkers evidently also noticed the same and complained to the city's [311 service](https://portal.311.nyc.gov/article/?kanumber=KA-02267). The issue received a [lot](https://www.bloomberg.com/news/articles/2022-12-14/nyc-complaints-about-helicopter-noise-top-rat-complaints-in-some-parts-of-city) of [news](https://www.newyorker.com/magazine/2022/01/31/the-choppers-that-ate-new-york) [coverage](https://www.newyorker.com/magazine/2022/01/31/the-choppers-that-ate-new-york) and lawmakers have been [trying](https://www.northjersey.com/story/news/2023/04/24/menendez-pascrell-hope-to-get-faa-attention-on-helicopter-issues-through-budget/70135404007/) to [pass laws](https://nyc.streetsblog.org/2022/12/12/going-in-circles-laws-to-tame-helicopters-struggle-to-take-off) to address this. 
 
 I wanted to dive into the data to see how the number of noise complaints have changed overtime and what could explain it.
@@ -50,8 +36,8 @@ Route change in Jersey City and Hoboken
 Sometime in April 2022 FlyNYON helicopters from Linden mostly stopped flying over Newport, in Jersey City, and instead now fly over The Heights. 
 
 <div class="iframe-container">
-  <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" frameborder="0"></iframe>
-  <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" frameborder="0"></iframe>
+  <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" width="450" height="775" frameborder="0"></iframe>
+  <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" width="450" height="775" frameborder="0"></iframe>
 </div>
 
 
