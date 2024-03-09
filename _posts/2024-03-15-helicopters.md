@@ -20,7 +20,15 @@ An exponential increase in 311 calls
 
 The number of complaints about helicopter noise to the 311 service has been on a steady exponential rise since 2019, reaching an all-time high in December 2023 and shows no sign of slowing down. Between 2016 and 2018, the average number of calls about this problem was only 3 per day, now that number has skyrocketed to nearly 160 calls per day. The chart below illustrates the average number of complaints about helicopter noise filed with 311 between 2016 and 2023.
 
+
+<p float="left">
+  <img src="/images/helicopters-in-nyc/helicopter-complaints-nyc.png" width="99%" />
+<!--   <img src="/images/cars_in_nyc/transit-commute.png" width="49%" />  -->
+</p>
+
 There are some seasonalities that can be observed in the data because fewer helicopters fly when there is rain or snow. While the majority of the complaints are from Manhattan, Queens and Brooklyn have been contributing to about 40% of the complaints over the last two years. 
+
+
 
 What caused the increase in noise complaints?
 =======
