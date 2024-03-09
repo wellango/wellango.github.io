@@ -37,10 +37,10 @@ Sometime in April 2022 FlyNYON helicopters from Linden mostly stopped flying ove
 
 <div style="width:1125px;">
   <div style="float:left;">
-    <iframe width="560px" height="315px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="float:right;">
-<iframe width="560px" height="315px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="560px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="clear:both;"></div>
 </div>
