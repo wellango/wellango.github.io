@@ -51,7 +51,7 @@ Here are gifs showing FlyNYON helicopter trajectories on the first day of each m
 After analyzing the helicopter paths from the past three years, I noticed two interesting changes.
 
 
-*Route change in Jersey City and Hoboken*
+**Route change in Jersey City and Hoboken**
 
 <div style="width:985px;">
   <div style="float:left;">
@@ -65,7 +65,7 @@ After analyzing the helicopter paths from the past three years, I noticed two in
 
 In April 2022, FlyNYON helicopters departing from Linden had largely stopped flying over Newport in Jersey City. Instead they now fly over The Heights. 
 
-*Route change in Upper West Side and Upper East Side*
+**Route change in Upper West Side and Upper East Side**
 
 <div style="width:985px;">
   <div style="float:left;">
@@ -84,4 +84,9 @@ These routes appear to be long-lasting, as evidence by the FlyNYON helicopter tr
 <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_nyon_2023_12_01.html" title="Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
 
 Since this route causes each helicopter to go over UWS twice per trip, This could lead to doubling of helicopter noise complaints. We can see this in the 311 complaints data, where the number of complaints from the Upper West Side has more than doubled in 2023 compared to 2022.
+
+<p float="left">
+  <img src="/images/helicopters-in-nyc/helicopter-complaints-uws.png" width="99%" />
+</p>
+
 
