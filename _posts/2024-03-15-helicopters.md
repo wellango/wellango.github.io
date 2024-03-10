@@ -1,5 +1,5 @@
 ---
-title: 'What explains the rise in helicopter noise complaints in New York City?'
+title: 'Changing trajectory of helicopter trips in New York City?'
 date: 2024-03-10
 permalink: /posts/2024/03/nyc-helicopters/
 author_profile: false
@@ -7,9 +7,6 @@ tags:
   - New York City
   - Helicopter Noise
 ---
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Helicopters in NYC">
 
 During the pandemic I started noticing an increasing number of helicopters hovering over New York City. Many other New Yorkers evidently also noticed the same and complained to the city's [311 service](https://portal.311.nyc.gov/article/?kanumber=KA-02267). The issue received a [lot](https://www.bloomberg.com/news/articles/2022-12-14/nyc-complaints-about-helicopter-noise-top-rat-complaints-in-some-parts-of-city) of [news](https://www.newyorker.com/magazine/2022/01/31/the-choppers-that-ate-new-york) [coverage](https://www.newyorker.com/magazine/2022/01/31/the-choppers-that-ate-new-york) and lawmakers have been [trying](https://www.northjersey.com/story/news/2023/04/24/menendez-pascrell-hope-to-get-faa-attention-on-helicopter-issues-through-budget/70135404007/) to [pass laws](https://nyc.streetsblog.org/2022/12/12/going-in-circles-laws-to-tame-helicopters-struggle-to-take-off) to address this. 
 
