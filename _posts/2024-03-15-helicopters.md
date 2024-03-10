@@ -50,9 +50,9 @@ Since showing all the helicopters over the Manhattan airspace leads to a clutter
 Here are gifs showing FlyNYON helicopter trajectories on the first day of each month from 2021 to 2023.
 
 <p float="left">
-  <img src="/images/helicopters-in-nyc/flynyon_2021_full_gif.gif" width="99%" height="75%"/>
-  <img src="/images/helicopters-in-nyc/flynyon_2022_full_gif.gif" width="99%" height="75%"/>
-  <img src="/images/helicopters-in-nyc/flynyon_2023_full_gif.gif" width="99%" height="75%"/>
+  <img src="/images/helicopters-in-nyc/flynyon_2021_full_gif.gif" width="75%" height="75%"/>
+  <img src="/images/helicopters-in-nyc/flynyon_2022_full_gif.gif" width="75%" height="75%"/>
+  <img src="/images/helicopters-in-nyc/flynyon_2023_full_gif.gif" width="75%" height="75%"/>
 </p>
 
 After analyzing the helicopter paths from the past three years, I noticed two interesting changes.
