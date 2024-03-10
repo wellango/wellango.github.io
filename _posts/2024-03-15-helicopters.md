@@ -1,11 +1,11 @@
 ---
-title: 'Helicopter Noise'
-date: 2023-03-15
+title: 'Helicopter and New York City'
+date: 2023-03-10
 permalink: /posts/2024/03/nyc-helicopters/
 author_profile: false
 tags:
   - New York City
-  - Helicopters
+  - Helicopter Noise
 ---
 
 <meta name="twitter:card" content="summary_large_image">
@@ -48,6 +48,12 @@ Since showing all the helicopters over the Manhattan airspace leads to a clutter
 
 Here are gifs showing FlyNYON helicopter trajectories on the first day of each month from 2021 to 2023.
 
+<p float="left">
+  <img src="/images/helicopters-in-nyc/flynyon_2021_full_gif.gif" width="99%" />
+  <img src="/images/helicopters-in-nyc/flynyon_2022_full_gif.gif" width="99%" />
+  <img src="/images/helicopters-in-nyc/flynyon_2023_full_gif.gif" width="99%" />
+</p>
+
 After analyzing the helicopter paths from the past three years, I noticed two interesting changes.
 
 
@@ -89,4 +95,11 @@ Since this route causes each helicopter to go over UWS twice per trip, This coul
   <img src="/images/helicopters-in-nyc/helicopter-complaints-uws.png" width="99%" />
 </p>
 
+Without legislation to address helicopter tourism, groups like Stop the Chop might want to investigate the reasons behind FlyNYON's decision to change their flight paths. This could be helpful in their lobbying efforts aimed at mitigating the impact of helicopter tourism.
+
+Since I couldn’t get helicopter trajectory data for every day of the month[^1], it is difficult to identify all the causes of the skyrocketing helicopter noise complaints in New York City. While I identified that factors such as an increase in helicopter tourism and changes in helicopter flight routes have contributed to the issue. People spending more time outdoors and being more cognizant of helicopter noise could also play a role.
+
+
+
+[^1]: If someone can find me the data, I’m happy to do the analysis!
 
