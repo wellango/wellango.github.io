@@ -37,7 +37,7 @@ Using the FAA database, I compiled a list of helicopters and filtered it to incl
 
 Here is a chart on one of the busiest days in the data, October 1st, 2021, where the different lines are different helicopters (the chart is interactive and can be zoomed in and out):
 
-<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2021_10_01.html" title="Helicopters over Manhattan" width="950" height="695" style="border: none;"></iframe> 
+<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2021_10_01.html" title="Helicopters over Manhattan" width="950" height="680" style="border: none;"></iframe> 
 
 While I tried to gauge the frequency of helicopter trips over Manhattan using the available data, the analysis lacked significance because of the limited temporal scope of the data. As a single day’s worth of data is not representative of what happened over the whole month.
 
