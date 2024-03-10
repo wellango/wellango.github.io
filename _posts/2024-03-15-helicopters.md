@@ -53,38 +53,37 @@ Here are gifs showing FlyNYON helicopter trajectories on the first day of each m
 
 After analyzing the helicopter paths from the past three years, I noticed two interesting changes.
 
-
 **Route change in Jersey City and Hoboken**
+
+In April 2022, FlyNYON helicopters departing from Linden had largely stopped flying over Newport in Jersey City. Instead they now fly over The Heights.
 
 <div style="width:985px;">
   <div style="float:left;">
-    <iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    <iframe width="490px" height="680px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_4_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="float:right;">
-<iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="490px" height="680px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_5_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="clear:both;"></div>
 </div>
-
-In April 2022, FlyNYON helicopters departing from Linden had largely stopped flying over Newport in Jersey City. Instead they now fly over The Heights. 
 
 **Route change in Upper West Side and Upper East Side**
 
+Since November 2022, Central park helicopter tours have changed their route. After circling Central Park, the tours now turn back to the Upper West Side (UWS) instead of proceeding to the Upper East Side (UES) and crossing over to the East River.
+
 <div style="width:985px;">
   <div style="float:left;">
-    <iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_9_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    <iframe width="490px" height="680px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_9_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="float:right;">
-<iframe width="490px" height="775px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_11_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="490px" height="680px" src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_all_2022_11_01_legend.html" scrolling="no" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="clear:both;"></div>
 </div>
 
-Since November 2022, Central park helicopter tours have changed their route. After circling Central Park, the tours now turn back to the Upper West Side (UWS) instead of proceeding to the Upper East Side (UES) and crossing over to the East River.
-
 These routes appear to be long-lasting, as evidence by the FlyNYON helicopter trajectories on Dec 1st of 2023:
 
-<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_nyon_2023_12_01.html" title="Helicopters over Manhattan" width="950" height="775" style="border: none;"></iframe> 
+<iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_nyon_2023_12_01.html" title="Helicopters over Manhattan" width="950" height="680" style="border: none;"></iframe> 
 
 Since this route causes each helicopter to go over UWS twice per trip, This could lead to doubling of helicopter noise complaints. We can see this in the 311 complaints data, where the number of complaints from the Upper West Side has more than doubled in 2023 compared to 2022.
 
