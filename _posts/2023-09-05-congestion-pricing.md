@@ -91,7 +91,7 @@ In conclusion, about 65,000 New Jerseyans would be subject to the congestion fee
 
 [^5]: Fall 2021 is the latest available data from NYMTC.
 
-[^6]: Capital funding is money for structural improvements, new train cars; not for day-to-day operation costs of running the transit system.
+[^6]: Capital funding is money for structural improvements, subway expansion etc.; not for day-to-day operation costs of running the transit system.
 
 [^7]:  NYC Transit, the agency that runs the subway and the buses in New York City, gets the remaining 80%.
 
