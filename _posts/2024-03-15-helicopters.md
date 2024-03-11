@@ -19,7 +19,7 @@ I wanted to dive into the data to see how the number of noise complaints have ch
 An exponential increase in 311 calls
 =======
 
-The number of complaints about helicopter noise to the city's 311 non-emergency complaint service, has been on a steady exponential rise since 2019. It reached an all-time high in December 2023 and the trend shows no sign of slowing. Between 2016 and 2018, the average daily call volume about this issue was merely 3. Now that number has skyrocketed to over 260 calls a day in December 2023. The graph below shows the average number of helicopter noise complaints reported to 311 from 2016 to 2023.
+The number of complaints about helicopter noise to the city's 311 non-emergency complaint service has been on a steady exponential rise since 2019. It reached an all-time high in December 2023, and the trend shows no sign of slowing. Between 2016 and 2018, the average daily call volume about this issue was merely 3. Now that number has skyrocketed to over 260 calls a day in December 2023. The graph below shows the average number of helicopter noise complaints reported to 311 from 2016 to 2023.
 
 <p float="left">
   <img src="/images/helicopters-in-nyc/helicopter-complaints-nyc.png" width="99%" />
@@ -59,7 +59,7 @@ After analyzing the helicopter paths from the past three years, I noticed two in
 
 **Route change in Jersey City and Hoboken**
 
-In April 2022, FlyNYON helicopters departing from Linden had largely stopped flying over Newport in Jersey City. Instead they now fly over The Heights.
+In April 2022, FlyNYON helicopters departing from Linden had largely stopped flying over the Newport neighborhood in Jersey City. Instead they now fly slightly North over The Heights neighborhood.
 
 <div style="width:985px;">
   <div style="float:left;">
@@ -89,13 +89,13 @@ These routes appear to be long-lasting, as evidence by the FlyNYON helicopter tr
 
 <iframe src="https://wellango.github.io/images/helicopters-in-nyc/mapbox_trace_nyon_2023_12_01.html" title="Helicopters over Manhattan" width="950" height="680" style="border: none;"></iframe> 
 
-Since this route causes each helicopter to go over UWS twice per trip, This could lead to doubling of helicopter noise complaints. We can see this in the 311 complaints data, where the number of complaints from the Upper West Side has more than doubled in 2023 compared to 2022.
+Since this route causes each helicopter to go over UWS twice per trip, this could lead to doubling of helicopter noise complaints. We can see this in the 311 complaints data where the number of complaints from the Upper West Side has more than doubled in 2023 compared to 2022.
 
 <p float="left">
   <img src="/images/helicopters-in-nyc/helicopter-complaints-uws.png" width="99%" />
 </p>
 
-Since I couldn’t get helicopter trajectory data for every day of the month[^1], it is difficult to identify all the causes of the skyrocketing helicopter noise complaints in New York City. While I identified that factors such as an increase in helicopter tourism and changes in helicopter flight routes have contributed to the issue. People spending more time outdoors and being more cognizant of helicopter noise could also play a role.
+Since I couldn’t get helicopter trajectory data for every day of the month[^1], it is difficult to identify all the causes of the skyrocketing helicopter noise complaints in New York City. I identified that factors such as an increase in helicopter tourism and changes in helicopter flight routes have contributed to the issue. However, people spending more time outdoors and being more cognizant of helicopter noise could also play a role.
 
 Without legislation to address helicopter tourism, groups like Stop the Chop might want to investigate the reasons behind FlyNYON's decision to change their flight paths. This could be helpful in their lobbying efforts aimed at reducing the noise from helicopters in New York City.
 
