@@ -1,5 +1,5 @@
 ---
-title: 'Shifting patterns: Helicopters over New York City'
+title: 'Shifting Patterns: Helicopters over New York City'
 date: 2024-03-10
 permalink: /posts/2024/03/helicopter-noise-nyc
 redirect_from:
